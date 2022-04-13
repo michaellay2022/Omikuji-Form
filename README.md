@@ -1,5 +1,7 @@
 # Omikuji-Form
 
-https://github.com/michaellay2022/Omikuji-Form/blob/master/omikuji.JPG
+![alt text](https://github.com/michaellay2022/Omikuji-Form/blob/master/omikuji.JPG?raw=true)
 
-https://github.com/michaellay2022/Omikuji-Form/blob/master/form.JPG
+![alt text](https://github.com/michaellay2022/Omikuji-Form/blob/master/form.JPG?raw=true)
+
+
